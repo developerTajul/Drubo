@@ -1,5 +1,5 @@
 /*
-Theme Name: Corlate
+Theme Name: Drubo
 Theme URI: http://underscores.me/
 Author: Mohammad Tajul Islam
 Author URI: http://facebook.com/tajulislamdu
@@ -43,12 +43,3 @@ Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
 	## Galleries
 --------------------------------------------------------------*/
 
-.widget .menu {
-  list-style: outside none none;
-  padding: 0;
-
-}
-
-.menu-item {
-  float: none;
-}
